@@ -1,0 +1,2 @@
+# snapdiet
+snapdiet-app
